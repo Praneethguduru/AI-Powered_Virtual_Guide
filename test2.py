@@ -18,7 +18,7 @@ def chatbot():
     print("Welcome to Hyderabad Tourist Bot! Type 'exit' to end the chat.")
     
     greetings = ["hi", "hello", "hey", "good morning", "good afternoon", "good evening"]
-    farewells = ["bye", "goodbye", "see you", "take care", "exit"]
+    farewells = ["bye", "goodbye", "see you", "take care", "exit", "get lost"]
     
     while True:
         user_input = input("You: ").lower()
