@@ -1,0 +1,65 @@
+{
+    "tourist_spots": [
+      {
+        "name": "Charminar",
+        "phone": "+91 40 2352 2990",
+        "description": "The Charminar is the signature monument of Hyderabad, built in 1591 by Mohammed Quli Qutb Shah. It features four minarets and is a famous historical landmark.",
+        "visiting_hours": "09:30 am – 05:30 pm"
+      },
+      {
+        "name": "Golconda Fort",
+        "phone": "+91 40 2351 2401 / 2351 3984",
+        "description": "One of India's famous forts, originally a mud fort, later rebuilt by the Qutb Shahis. Known for its acoustics, palaces, and unique water supply system.",
+        "visiting_hours": "08:30 am – 05:30 pm"
+      },
+      {
+        "name": "Taramati Baradari",
+        "phone": "N/A",
+        "description": "A heritage monument built by the Seventh Sultan of Golconda, now a cultural venue for music and arts, located near Golconda Fort.",
+        "visiting_hours": "08:00 am – 09:30 pm"
+      },
+      {
+        "name": "Birla Mandir",
+        "phone": "+91 40 2323 3259",
+        "description": "A white marble temple of Lord Venkateshwara, offering a panoramic view of the city from Kala Pahad.",
+        "visiting_hours": "Open all day"
+      },
+      {
+        "name": "Salar Jung Museum",
+        "phone": "+91 40 2452 3211",
+        "description": "One of the world's largest one-man collections of antiques, featuring Persian carpets, Moghal miniatures, and the famous Veiled Rebecca statue.",
+        "visiting_hours": "10:00 am – 05:00 pm (Closed on Fridays)"
+      },
+      {
+        "name": "Nehru Zoological Park",
+        "phone": "+91 40 2447 7355",
+        "description": "A 300-acre zoo with over 250 species of animals and birds, known for its Lion Safari Park and Natural History Museum.",
+        "visiting_hours": "09:00 am – 05:30 pm (Closed on Mondays)"
+      },
+      {
+        "name": "Hussainsagar Lake",
+        "phone": "N/A",
+        "description": "A historic lake built in 1562, featuring a large monolithic Buddha statue and boating activities.",
+        "visiting_hours": "Open all day"
+      },
+      {
+        "name": "Shilparamam",
+        "phone": "+91 40 2310 0455",
+        "description": "A 30-acre arts and crafts village showcasing traditional Indian crafts and hosting annual bazaars.",
+        "visiting_hours": "10:30 am – 08:30 pm"
+      },
+      {
+        "name": "Chilkur Balaji Temple",
+        "phone": "N/A",
+        "description": "A famous pilgrimage site known as the Visa Balaji Temple, located on the outskirts of Hyderabad.",
+        "visiting_hours": "Open all day"
+      },
+      {
+        "name": "KBR National Park",
+        "phone": "+91 40 2360 7663",
+        "description": "A large urban park with diverse flora and fauna, including over 100 species of birds and 20 species of reptiles.",
+        "visiting_hours": "06:00 am – 06:00 pm"
+      }
+    ]
+  }
+  
